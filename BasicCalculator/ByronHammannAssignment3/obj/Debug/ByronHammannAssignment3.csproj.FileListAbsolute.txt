@@ -1,0 +1,15 @@
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\bin\Debug\ByronHammannAssignment3.exe.config
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\bin\Debug\ByronHammannAssignment3.exe
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\bin\Debug\ByronHammannAssignment3.pdb
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3.csprojAssemblyReference.cache
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\MainWindow.g.cs
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\App.g.cs
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3_MarkupCompile.cache
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3_MarkupCompile.lref
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\MainWindow.baml
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3.g.resources
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3.Properties.Resources.resources
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3.csproj.GenerateResource.cache
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3.exe
+C:\Users\Siam Workstation\Documents\Mizzou\Fall 2018\Visual Studio IT4400\Assignments\ByronHammannAssignment3\ByronHammannAssignment3\obj\Debug\ByronHammannAssignment3.pdb
